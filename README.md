@@ -1,6 +1,7 @@
 # devio's GitHub repositories 
 
 ## SQL Server 
+
 &nbsp;|&nbsp;
 -|-
 [mysqldump2mssql](https://github.com/devio-at/mysqldump2mssql) |Convert mysqldump files into T-SQL
@@ -37,3 +38,7 @@
 ## Web applications
 
 [active-forks](https://github.com/devio-at/active-forks) Find active github forks of a repo 
+
+<style type="text/css">
+  th { display: none; }
+</style>
