@@ -41,4 +41,5 @@
 
 <style type="text/css">
   th { display: none; }
+  section#downloads { display: none; }
 </style>
