@@ -1,6 +1,6 @@
 # devio's GitHub repositories 
 
-## SQL Server 
+## SQL Server
 
 &nbsp;|&nbsp;
 -|-
@@ -17,7 +17,7 @@
 [ScrewTurn Wiki 6](https://github.com/devio-at/STW6)| ASP.Net MVC version of ScrewTurn Wiki
 [STW for U8](https://github.com/devio-at/duSSTW) |Simple ScrewTurnWiki markup processor for Umbraco 8 
 
-## Umbraco 
+## Umbraco
 
 &nbsp;|&nbsp;
 -|-
