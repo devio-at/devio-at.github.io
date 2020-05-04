@@ -46,4 +46,21 @@
 <style type="text/css">
   th { display: none; }
   section#downloads { display: none; }
+  
+  .blinking-cursor {
+    color: #b5e853;
+    -webkit-animation: blink 0.8s infinite;
+    animation: blink 0.8s infinite;
+  }
+  
+  @-webkit-keyframes blink {
+    0% {color: #222}
+    50% {color: #b5e853}
+    100% {color: #222}
+  }
+  @keyframes blink {
+    0% {color: #222}
+    50% {color: #b5e853}
+    100% {color: #222}
+  }
 </style>
